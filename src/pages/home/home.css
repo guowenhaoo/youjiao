@@ -1,0 +1,19 @@
+.home{
+    width: 100%;
+    height: 100%;
+}
+
+.home-top{
+    display: flex;
+    align-items: center;
+}
+
+.home-content{
+    margin: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.home-content .home-content-card{
+    width: 48%;
+}

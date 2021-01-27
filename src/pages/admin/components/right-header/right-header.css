@@ -1,0 +1,41 @@
+.header{
+    background-color: #fff !important;
+    height: 64px;
+    padding: 0;
+    position: relative;
+}
+
+.header .trigger{
+    font-size: 20px;
+    line-height: 64px;
+    padding: 0 20px;
+    position: absolute;
+}
+
+.header .navbar-header{
+    padding: 0 30px 0 70px;
+    height: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.header .navbar-header .navbar-brand{
+    color: #333;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.header .navbar-header .navbar-header-right .exit-btn{
+    margin-left: 30px;
+}
+
+.header .navbar-header .navbar-header-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
